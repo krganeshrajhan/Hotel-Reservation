@@ -6,6 +6,7 @@ PREREQUISITE:
 
 2. Maven 3.1.0 
 
+STEPS:
 1. Run the maven command to run the project 
 mvn appengine:devserver
 2. Go to http://localhost:8888/hotel/
