@@ -1,6 +1,10 @@
 # Hotel-Reservation
 Hotel Reservation System
 
+PREREQUISITE:
+1. JDK 7 installed.
+2. Maven 3.1.0 
+
 1. Run the maven command to run the project 
 mvn appengine:devserver
 2. Go to http://localhost:8888/hotel/
