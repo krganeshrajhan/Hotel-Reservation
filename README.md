@@ -3,7 +3,6 @@ Hotel Reservation System
 
 PREREQUISITE:
 1. JDK 7 installed.
-
 2. Maven 3.1.0 
 
 STEPS:
